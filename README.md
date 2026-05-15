@@ -1,0 +1,1 @@
+# osnovi-terraform-my-netology-hw
